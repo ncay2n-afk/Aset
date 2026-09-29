@@ -1,0 +1,6 @@
+{
+  "name": "AsetKantor - Sistem Manajemen Aset Kantor",
+  "description": "Sistem manajemen aset kantor lengkap dengan pelacakan inventaris, pembaruan stok otomatis, pelaporan real-time, database Google Sheets, bukti foto di Google Drive, dan notifikasi status via Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
